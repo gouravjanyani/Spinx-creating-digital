@@ -1,0 +1,104 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header-container {
+}
+.top-header {
+  background-color: #b2c3cc;
+}
+.header-nav {
+}
+
+.home-banner {
+  background: url(../images/home-banner.jpeg) no-repeat center top;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  border-bottom: 3px solid #b2d237;
+}
+
+.content-slider {
+  background-color: #181818;
+  width: 100vw;
+  height: 100vh;
+}
+.think-title {
+  color: #b2d426;
+  font-size: 50px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 90px;
+  text-transform: uppercase;
+  font-family: proxima_nova;
+  margin-bottom: 30px;
+}
+.recent-work-sec {
+  background-color: white;
+  width: 100vw;
+  height: 100vh;
+}
+.select-clients {
+  background: #1b1b1b;
+  width: 100vw;
+  height: 85vh;
+}
+.expertise {
+  background-color: white;
+  width: 100vw;
+  height: 100vh;
+}
+.home-banner-content {
+  direction: rtl;
+  font-size: 100px;
+  line-height: normal;
+  position: relative;
+  top: 30%;
+  right: 10%;
+  padding-right: 15px;
+}
+.top-email {
+  margin-right: 5rem;
+}
+.content-slider-item {
+  font-size: 100px;
+}
+.award-logo {
+  z-index: 999;
+  border-radius: 100%;
+  box-shadow: 0 2px 40px 0 rgb(0 0 0 / 50%);
+  position: absolute;
+  bottom: 0;
+  top: auto;
+  left: 30px;
+}
+.hp-client-list .client-logo img {
+  display: block;
+  margin: auto;
+  height: auto;
+  width: 170px;
+}
+.expertise {
+  background-color: #ececec;
+  height: 150vh;
+  width: 100vw;
+}
+.expertise-card {
+  height: 430px;
+
+  background-color: white;
+  text-align: start;
+}
+.expertise-link {
+  color: #b1d237;
+  text-decoration: none;
+}
+.expertise-container {
+  width: 80%;
+}
+.technology {
+  background-color: #ececec;
+
+  width: 100vw;
+}
